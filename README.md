@@ -130,7 +130,7 @@ Insert image here
 
 ## MobileRobot Movement Video:
 
-![video](https://youtu.be/C_2U1bqDGU8)
+https://youtu.be/C_2U1bqDGU8
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
